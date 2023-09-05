@@ -1,0 +1,14 @@
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.exe
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.deps.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.runtimeconfig.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\bin\Debug\net7.0\MediaEscolar.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.AssemblyInfoInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.AssemblyInfo.cs
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.csproj.CoreCompileInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\refint\MediaEscolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\MediaEscolar.genruntimeconfig.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\MediaEscolar\MediaEscolar\MediaEscolar\MediaEscolar\obj\Debug\net7.0\ref\MediaEscolar.dll
