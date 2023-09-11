@@ -17,6 +17,7 @@ namespace MediaEscolar
                     if (n.Nota[i] > 30)
                     {
                         Console.WriteLine("numero invalido, porfavor digitar novaente");
+                        i--;
                     }
                     else
                     { Console.WriteLine($"nota {i} salva com sucesso..."); }
@@ -31,13 +32,7 @@ namespace MediaEscolar
                     { Console.WriteLine($"nota {i} salva com sucesso..."); }
                 }
             }
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine($"nota {i} = {n.Nota[i]}");
-                n.Media += n.Nota[i];
-            }
-
-            
+            n.Conseito(n.Media());
         }
     }
 }
